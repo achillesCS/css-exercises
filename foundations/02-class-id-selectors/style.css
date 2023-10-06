@@ -1,0 +1,16 @@
+p {
+    background-color: rosybrown; font-family: verdana, dejavu sans, sans-serif;
+}
+
+#div-id {
+
+    color: blue; font-size: 36px;
+}
+
+#p-id {
+    font-size: 24px;
+}
+
+#div-id-2 {
+    background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
